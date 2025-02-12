@@ -1,3 +1,5 @@
+# Small Scale LLM
+
 A lightweight, minimalistic implementation of a small-scale Large Language Model (LLM) designed for experimentation, fine-tuning, and research purposes. This project serves as an educational tool to understand the inner workings of transformer-based language models while maintaining efficiency for constrained environments.
 
 
